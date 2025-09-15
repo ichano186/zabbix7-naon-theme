@@ -1,0 +1,40 @@
+:root {
+  /* Graph theme: naon-theme */
+
+  --graphthemeid: 5;
+  --theme-name: "naon-theme";
+
+  --background-color: #282A36;       /* backgroundcolor */
+  --graph-color: #1E1F29;            /* graphcolor */
+  --grid-color: #282A36;             /* gridcolor */
+  --main-grid-color: #6272A4;        /* maingridcolor */
+  --grid-border-color: #6272A4;      /* gridbordercolor */
+  --text-color: #F8F8F2;             /* textcolor */
+  --highlight-color: #A97BE0;        /* highlightcolor */
+  --left-percentile-color: #3DDF6C;  /* leftpercentilecolor */
+  --right-percentile-color: #E04444; /* rightpercentilecolor */
+  --nonworktime-color: #232530;      /* nonworktimecolor */
+
+  /* colorpalette (21 graph line colors) */
+  --palette-01: #E04444; /*  */
+  --palette-02: #FF7A5E;
+  --palette-03: #FF9F66; 
+  --palette-04: #E6A15D; /*  */
+  --palette-05: #E5E97C; /*  */
+  --palette-06: #D9DD72;
+  --palette-07: #E5E97C;
+  --palette-08: #97E57C;
+  --palette-09: #7EDB68;
+  --palette-10: #5FCF55;
+  --palette-11: #3DDF6C; /*  */
+  --palette-12: #6BCCE0; /*  */
+  --palette-13: #5AB9C9;
+  --palette-14: #6BCCE0;
+  --palette-15: #6272A4; /*  */
+  --palette-16: #5A6696;
+  --palette-17: #737AAD;
+  --palette-18: #A97BE0; /*  */
+  --palette-19: #9D6AC5;
+  --palette-20: #C96CB8;
+  --palette-21: #FF79C6;
+}

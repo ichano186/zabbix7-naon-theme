@@ -499,15 +499,15 @@ a {
   a:hover {
     outline: 0;
     color: #a97be0;
-    border-bottom: 1px solid rgba(71, 150, 196, 0.5); }
+    border-bottom: 1px solid #a97be0; }
   a:focus {
     color: #a97be0;
     outline: none;
-    border-bottom: 2px solid rgba(71, 150, 196, 0.5); }
+    border-bottom: 2px solid #a97be0; }
   a:active {
     outline: 0;
     color: #6bcce0;
-    border-bottom: 1px solid rgba(71, 150, 196, 0.5); }
+    border-bottom: 1px solid #6bcce0; }
   a img {
     border: 0;
     vertical-align: top; }
@@ -1304,15 +1304,15 @@ button, .btn {
 .btn-link {
   color: #6bcce0;
   background: transparent;
-  border-color: #4796c4; }
+  border-color: #6bcce0; }
   .btn-link:hover {
     color: #a97be0;
     background: transparent;
-    border-color: #4796c4; }
+    border-color: #a97be0; }
   .btn-link:active, .btn-link:focus {
     color: #a97be0;
     background: transparent;
-    border-color: rgba(94, 115, 126, 0.5); }
+    border-color: #a97be0; }
 
 button[disabled], [disabled].btn, [disabled].btn-alt, [disabled].btn-grey {
   pointer-events: none;
@@ -5191,11 +5191,11 @@ div.dashboard-widget-web .list-table tr[data-hostgroupid] {
   .link-action:hover {
     margin-bottom: -1px;
     color: #a97be0;
-    border-bottom: 1px solid rgba(71, 150, 196, 0.35); }
+    border-bottom: 1px solid #a97be0; }
   .link-action:focus {
     margin-bottom: -2px;
     outline: none;
-    border-bottom: 2px solid rgba(71, 150, 196, 0.35); }
+    border-bottom: 2px solid #a97be0; }
 
 .link-action, .link-action:visited, .link-action:active {
   margin-bottom: -1px;
@@ -5209,14 +5209,14 @@ div.dashboard-widget-web .list-table tr[data-hostgroupid] {
     border-bottom: 1px solid rgba(118, 141, 153, 0.35); }
   .link-alt:hover {
     color: #a97be0;
-    border-bottom: 1px solid rgba(71, 150, 196, 0.5); }
+    border-bottom: 1px solid #a97be0; }
   .link-alt:focus {
     color: #a97be0;
     outline: none;
-    border-bottom: 2px solid rgba(71, 150, 196, 0.35); }
+    border-bottom: 2px solid #a97be0; }
   .link-alt:active {
     color: #ff79c6;
-    border-bottom: 1px solid rgba(71, 150, 196, 0.5); }
+    border-bottom: 1px solid #ff79c6; }
 
 .link-external {
   position: relative; }
