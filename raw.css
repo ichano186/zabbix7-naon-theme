@@ -1,36 +1,14 @@
-background-color: 
-#282a36
+:root {
+  --dark-background: #1e1f29;
+  --darker-background: #181920;
+  --bright-text: #f8f8f2;
+  --dim-text: #aaaaaa;
 
-dark background, dark button text & button border
-#1e1f29
-
-darker background
-#181920
-
-bright text
-#f8f8f2
-
-slightly darker text
-#aaaaaa
-
-
-teal or link
-#6bcce0
-
-green
-#3ddf6c
-
-hover link and button (purple)
-#a97be0
-
-some other (orange)
-#e6a15d
-
-red
-#e04444
-
-blue
-#6272a4
-
-yelllow
-#e5e97c
+  --teal-link: #6bcce0;
+  --green: #3ddf6c;
+  --purple-hover: #a97be0;
+  --orange: #e6a15d;
+  --red: #e04444;
+  --blue: #6272a4;
+  --yellow: #e5e97c;
+}
