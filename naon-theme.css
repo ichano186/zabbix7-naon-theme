@@ -3252,7 +3252,7 @@ output {
       cursor: default;
       box-shadow: none; }
     .radio-list-control input[type="radio"][readonly]:checked + label, .radio-list-control input[type="radio"][disabled]:checked + label {
-      background-color: #a3a3a3 !important; }
+      background-color: #1e1f29 !important; }
     .radio-list-control input[type="radio"][readonly]:checked + label {
       color: #1e1f29;
       border-color: #181920;
@@ -6842,16 +6842,16 @@ td[class] + td.disaster-bg {
     padding: 0 10px; }
 
 .problem-unack-fg {
-  color: #ff3333; }
+  color: #e04444; }
 
 .problem-ack-fg {
-  color: #ff3333; }
+  color: #e04444; }
 
 .ok-unack-fg {
-  color: #00ff00; }
+  color: #3ddf6c; }
 
 .ok-ack-fg {
-  color: #00ff00; }
+  color: #3ddf6c; }
 
 .navigation-tree .navigation-tree-node-is-selected > .navigation-tree-node-info, .navigation-tree .navigation-tree-node-is-selected > .navigation-tree-node-info:hover, div.dashboard-widget-itemhistory .list-table tr.selected td,
 div.dashboard-widget-itemhistory .list-table td.selected, div.dashboard-widget-itemhistory .list-table tr.selected td:hover,
